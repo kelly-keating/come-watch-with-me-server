@@ -15,4 +15,4 @@ Server will run on `http://localhost:8080`
 
 Deployed version is running on `http://come-watch-with-me.herokuapp.com`
 
-Client repo located at `https://github.com/kelly-keating/cwwm-client`
+Client repo located at `https://github.com/kelly-keating/come=watch-with-me-client`
